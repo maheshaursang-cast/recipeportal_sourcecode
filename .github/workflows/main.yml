@@ -35,4 +35,3 @@ jobs:
                                                    --serverUrl ${{ env.serverUrl }} \
                                                    --snapshotDatetime ${{ env.snapshotDatetime }} \
                                                    --ignoreDirectories ${{ env.ignoreDirectories }}
-                                                   --skipUpload
