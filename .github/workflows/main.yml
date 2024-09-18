@@ -34,5 +34,4 @@ jobs:
                                                    --applicationId ${{ env.applicationId }} \
                                                    --serverUrl ${{ env.serverUrl }} \
                                                    --snapshotDatetime ${{ env.snapshotDatetime }} \
-                                                   --ignoreDirectories ${{ env.ignoreDirectories }}\
-                                                   --skipUpload
+                                                   --ignoreDirectories ${{ env.ignoreDirectories }}
